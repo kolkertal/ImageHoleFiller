@@ -27,7 +27,7 @@ For example:
 	[0.4f, -1f, -1f],
 	[0.2f, 0.1f, -1f]]
 	
- - Output is a file containing the new 2D array located in the same library as the origin file.
+ - Output is a file containing the new 2D array in the same format, located in the same library as the origin file.
    The new file name is: origin file name + "_holeFilled".
 	
 
